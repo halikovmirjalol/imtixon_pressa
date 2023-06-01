@@ -1,0 +1,14 @@
+[
+    {
+        "author_id": 1,
+        "author_name": "Abdulla Azizov",
+        "author_number": "123456789123",
+        "author_role": "Web Dasturlash"
+    },
+    {
+        "author_id": 2,
+        "author_name": "Alisher Isaev",
+        "author_number": "123456789123",
+        "author_role": "Tadbirkor"
+    }
+]

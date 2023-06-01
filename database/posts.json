@@ -1,0 +1,38 @@
+[
+    {
+        "post_id": 1,
+        "post_title": "Jahongir G’ulamovdan dizayn sohasi bo’yicha master klass",
+        "post_desc": "Najot Ta'lim jamoasi o'z o'quvchilari uchun manfaatli bo'lgan musobaqalarni tashkil etishda davom etadi.",
+        "author_id": 1,
+        "post_time": "14:00",
+        "post_date": "22/01/2022",
+        "post_type": "online",
+        "post_view_count": 124,
+        "category_id": 2,
+        "sub_category_id": 4,
+        "post_status": "complated"
+    },
+    {
+        "post_id": 2,
+        "post_title": " Kaziyevadan UI/UX bo’yicha master klass",
+        "post_desc": "Najot Ta'lim jamoasi o'z o'quvchilari uchun manfaatli bo'lgan musobaqalarni tashkil etishda davom etadi.",
+        "author_id": 2,
+        "post_time": "15:00",
+        "post_img": "image-1685529064014-649407104.jpg",
+        "post_date": "21/10/2022",
+        "post_type": "Offline",
+        "post_view_count": 1,
+        "category_id": 2,
+        "sub_category_id": 3,
+        "post_status": "uncomplated"
+    },
+    {
+        "post_id": 3,
+        "author_id": 3,
+        "post_img": "image-1685631079214-432709851.jpg",
+        "post_view_count": 0,
+        "category_id": null,
+        "sub_category_id": null,
+        "post_status": "uncomplated"
+    }
+]
